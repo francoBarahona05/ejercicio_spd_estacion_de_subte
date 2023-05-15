@@ -5,6 +5,7 @@ ejercicio, desde tinkercad  simulando una mapa de destino de subte , con un ardi
 franco barahona
 
 ## funcion principal:
+~~~ C 
 void loop()
 {	
   //agrego el valor del contador en la funcion leds
@@ -17,6 +18,9 @@ void loop()
   //controlo que el contador esta funcionando bien por consola
   	Serial.print(contador);
 }
+~~~
 
 ## link del proyecto 
 link: https://www.tinkercad.com/things/4YvTiammpf0-brave-jaiks-kieran/editel
+
+## imagen:
