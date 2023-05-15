@@ -24,4 +24,4 @@ void loop()
 link: https://www.tinkercad.com/things/4YvTiammpf0-brave-jaiks-kieran/editel
 
 ## imagen:
-!![Tinkercad](./img/Capturadepantalla2023-05-15131843.png)
+!![Tinkercad](./img/tinkercad.png)
