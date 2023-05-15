@@ -24,4 +24,3 @@ void loop()
 link: https://www.tinkercad.com/things/4YvTiammpf0-brave-jaiks-kieran/editel
 
 ## imagen:
-!(tinkercad.png)
