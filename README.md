@@ -14,7 +14,7 @@ void loop()
   //guardo el valor retornado en contador para usarlo
   //en la funcion leds
   	contador = encender_estacion(contador);
-    delay(400); // Agregamos un delay de 200 milisegundos
+        delay(400); // Agregamos un delay de 200 milisegundos
   //controlo que el contador esta funcionando bien por consola
   	Serial.print(contador);
 }
